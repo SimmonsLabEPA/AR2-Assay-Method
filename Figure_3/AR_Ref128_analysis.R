@@ -77,11 +77,11 @@ dt0 = dt0[-delete.rows,]
 
 #Load tcplFit_Lite
 
-source("C:/Users/Ssimmons/OneDrive - Environmental Protection Agency (EPA)/Profile/Desktop/TPO_ToxCast/R/tcplFit.R")
-source("C:/Users/Ssimmons/OneDrive - Environmental Protection Agency (EPA)/Profile/Desktop/TPO_ToxCast/R/tcpl_Fit_Lite_Sample_Data.R")
-source("C:/Users/Ssimmons/OneDrive - Environmental Protection Agency (EPA)/Profile/Desktop/TPO_ToxCast/R/tcplObjCnst.R")
-source("C:/Users/Ssimmons/OneDrive - Environmental Protection Agency (EPA)/Profile/Desktop/TPO_ToxCast/R/tcplObjHill.R")
-source("C:/Users/Ssimmons/OneDrive - Environmental Protection Agency (EPA)/Profile/Desktop/TPO_ToxCast/R/tcplObjGnls.R")
+source("./tcpl_Lite/tcplFit.R")
+source("./tcpl_Lite/tcpl_Fit_Lite_Sample_Data.R")
+source("./tcpl_Lite/tcplObjCnst.R")
+source("./tcpl_Lite/tcplObjHill.R")
+source("./tcpl_Lite/tcplObjGnls.R")
 
 hill_curve <- function(hill_tp, hill_ga, hill_gw, lconc){
   return(hill_tp/(1+10^((hill_ga - lconc)*hill_gw)))
