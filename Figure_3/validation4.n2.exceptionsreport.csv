@@ -1,0 +1,45 @@
+Date Time Point,Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+32:31.1,Source Plate[1],DPID_128,384PP_DMSO2,N3,Destination Plate[2],apid_2,Greiner_384PS_781096,L17,0,0,,,2.5,0,55.605,70.487,Percent,DMSO,MM0203001: DFA didn't converge.
+35:25.7,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O6,0,0,,,2.5,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+35:26.7,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O5,0,0,,,5,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+35:27.2,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O4,0,0,,,10,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+35:27.6,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O3,0,0,,,20,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+35:28.1,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O2,0,0,,,40,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+36:48.4,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[5],apid_5,Greiner_384PS_781096,J17,0,0,,,2.5,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+36:48.4,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[5],apid_5,Greiner_384PS_781096,J16,0,0,,,5,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+36:48.4,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[5],apid_5,Greiner_384PS_781096,J15,0,0,,,10,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+36:48.4,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[5],apid_5,Greiner_384PS_781096,J14,0,0,,,20,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+36:48.4,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[5],apid_5,Greiner_384PS_781096,J13,0,0,,,40,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+36:52.2,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[5],apid_5,Greiner_384PS_781096,J2,0,0,,,40,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+36:52.8,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[5],apid_5,Greiner_384PS_781096,J3,0,0,,,20,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+36:53.2,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[5],apid_5,Greiner_384PS_781096,J4,0,0,,,10,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+36:53.7,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[5],apid_5,Greiner_384PS_781096,J5,0,0,,,5,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+36:54.2,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[5],apid_5,Greiner_384PS_781096,J6,0,0,,,2.5,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+42:40.2,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O6,0,0,,,2.5,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+42:41.2,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O5,0,0,,,5,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+42:41.6,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O4,0,0,,,10,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+42:42.1,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O3,0,0,,,20,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+42:42.6,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O2,0,0,,,40,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+44:02.6,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[10],apid_10,Greiner_384PS_781096,J17,0,0,,,2.5,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+44:02.6,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[10],apid_10,Greiner_384PS_781096,J16,0,0,,,5,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+44:02.6,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[10],apid_10,Greiner_384PS_781096,J15,0,0,,,10,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+44:02.6,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[10],apid_10,Greiner_384PS_781096,J14,0,0,,,20,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+44:02.6,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[10],apid_10,Greiner_384PS_781096,J13,0,0,,,40,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+44:06.5,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[10],apid_10,Greiner_384PS_781096,J2,0,0,,,40,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+44:07.0,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[10],apid_10,Greiner_384PS_781096,J3,0,0,,,20,0,53.788,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+44:08.4,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[10],apid_10,Greiner_384PS_781096,J6,0,0,,,2.5,0,53.773,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+49:46.6,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O6,0,0,,,2.5,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+49:47.5,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O5,0,0,,,5,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+49:48.0,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O4,0,0,,,10,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+49:48.5,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O3,0,0,,,20,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+49:48.9,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O2,0,0,,,40,0,54.117,91.402,Percent,DMSO,MM0203001: DFA didn't converge.
+51:07.9,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[15],apid_15,Greiner_384PS_781096,J17,0,0,,,2.5,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+51:07.9,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[15],apid_15,Greiner_384PS_781096,J16,0,0,,,5,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+51:07.9,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[15],apid_15,Greiner_384PS_781096,J15,0,0,,,10,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+51:07.9,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[15],apid_15,Greiner_384PS_781096,J14,0,0,,,20,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+51:07.9,Source Plate[1],DPID_128,384PP_DMSO2,H8,Destination Plate[15],apid_15,Greiner_384PS_781096,J13,0,0,,,40,0,0,0,Percent,DMSO,MM0202007: Problem calc. well fluid volume fc: 0 ft: 0
+51:11.8,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[15],apid_15,Greiner_384PS_781096,J2,0,0,,,40,0,53.773,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+51:12.3,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[15],apid_15,Greiner_384PS_781096,J3,0,0,,,20,0,53.773,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+51:12.8,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[15],apid_15,Greiner_384PS_781096,J4,0,0,,,10,0,53.773,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+51:13.3,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[15],apid_15,Greiner_384PS_781096,J5,0,0,,,5,0,53.773,83.783,Percent,DMSO,MM0203001: DFA didn't converge.
+51:13.7,Source Plate[1],DPID_128,384PP_DMSO2,G8,Destination Plate[15],apid_15,Greiner_384PS_781096,J6,0,0,,,2.5,0,53.773,83.783,Percent,DMSO,MM0203001: DFA didn't converge.

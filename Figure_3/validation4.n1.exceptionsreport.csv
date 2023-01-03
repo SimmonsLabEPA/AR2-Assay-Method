@@ -1,0 +1,16 @@
+Date Time Point,Source Plate Name,Source Plate Barcode,Source Plate Type,Source Well,Destination Plate Name,Destination Plate Barcode,Destination Plate Type,Destination Well,Destination Well X Offset,Destination Well Y Offset,Sample ID,Sample Name,Transfer Volume,Actual Volume,Current Fluid Volume,Fluid Composition,Fluid Units,Fluid Type,Transfer Status
+00:58.8,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O6,0,0,,,2.5,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+00:59.7,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O5,0,0,,,5,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+01:00.2,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O4,0,0,,,10,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+01:00.7,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O3,0,0,,,20,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+01:01.1,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[4],apid_4,Greiner_384PS_781096,O2,0,0,,,40,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+08:13.0,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O6,0,0,,,2.5,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+08:14.0,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O5,0,0,,,5,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+08:14.4,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O4,0,0,,,10,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+08:14.9,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O3,0,0,,,20,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+08:15.4,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[9],apid_9,Greiner_384PS_781096,O2,0,0,,,40,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+15:32.8,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O6,0,0,,,2.5,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+15:33.7,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O5,0,0,,,5,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+15:34.2,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O4,0,0,,,10,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+15:34.7,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O3,0,0,,,20,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
+15:35.1,Source Plate[1],DPID_128,384PP_DMSO2,G7,Destination Plate[14],apid_14,Greiner_384PS_781096,O2,0,0,,,40,0,54.043,92.088,Percent,DMSO,MM0203001: DFA didn't converge.
